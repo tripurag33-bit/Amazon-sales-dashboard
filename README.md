@@ -25,4 +25,3 @@ HTML, CSS, JavaScript
 ## How to Run
 Open `index.html` in any browser. No installation needed.
 
-Made for Sapphire Project Submission.
