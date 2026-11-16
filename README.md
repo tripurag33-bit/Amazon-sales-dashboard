@@ -24,4 +24,4 @@ HTML, CSS, JavaScript
 
 ## How to Run
 Open `index.html` in any browser. No installation needed.
-
+https://gitHub.com/tripurag33-bit/amazon-sales-dashboard
