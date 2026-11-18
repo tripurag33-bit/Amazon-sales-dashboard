@@ -24,4 +24,6 @@ HTML, CSS, JavaScript
 
 ## How to Run
 Open `index.html` in any browser. No installation needed.
+##excel sheet
+Amazon sales data india dashboard.xlsx
 https://gitHub.com/tripurag33-bit/amazon-sales-dashboard
