@@ -3,7 +3,84 @@
 Amazon India Sales Dashboard | Excel Project
 
 Project Overview
+🛒 Amazon India Sales Dashboard | Excel Data Analytics Project
 
+📌 Project Overview
+
+This project focuses on analyzing Amazon India sales data using Microsoft Excel. An interactive dashboard was created to track sales performance, profitability, customer orders, product categories, returns, payment methods, fulfilment methods, and geographic performance.
+
+The dashboard transforms raw sales data into meaningful business insights through KPI cards, charts, tables, and visualizations.
+
+📊 Key Performance Indicators (KPIs)
+
+- Total Sales: ₹15.58 Crore
+- Total Profit: ₹3.32 Crore
+- Total Returns: 485
+- Total Orders: 10,000
+
+📈 Dashboard Features
+
+1. Overall Sales & Profit Performance – Total sales, profit, orders, units sold, average order value and profit margin.
+2. Category & Product Performance – Category-wise sales, profit, units sold and Top 10 products.
+3. Order Status & Revenue Loss – Delivered, shipped, returned and cancelled orders.
+4. Payment & Fulfilment Performance – Sales and profit by payment and fulfilment methods.
+5. Geographic Performance – State-wise sales, profit and orders.
+6. Executive Summary – Key business insights and performance highlights.
+7. Project Overview – Project objectives, dataset details and metric definitions.
+
+🛠️ Tools & Technologies
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Data Cleaning
+- Data Analysis
+- Dashboard Design
+- Data Visualization
+
+📷 Dashboard Screenshots
+
+1. Project Overview
+
+"Project Overview" (01_Project_Overview.png)
+
+2. Executive Summary
+
+"Executive Summary" (02_Executive_Summary.png)
+
+3. Category & Product Performance
+
+"Category & Product" (03_Category_Product_Performance.png)
+
+4. Order Status
+
+"Order Status" (04_Order_Status.png)
+
+5. Payment & Fulfilment Performance
+
+"Payment & Fulfilment" (05_Payment_Fulfillment.png)
+
+6. Geographic Performance
+
+"Geographic Performance" (06_Geographic_Performance.png)
+
+7. KPI Cards
+
+"KPI Dashboard" (07_KPI_Cards.png)
+
+🎯 Project Objective
+
+The main objective is to understand Amazon sales performance, identify profitable product categories, monitor order status, analyze returns, and discover business opportunities through Excel dashboard reporting.
+
+📁 Project Files
+
+- Amazon Sales Dashboard Excel Workbook
+- Dashboard Screenshots
+- Project Documentation
+
+👩‍💻 Conclusion
+
+This project demonstrates practical skills in Excel data analysis, KPI reporting, dashboard development, and business intelligence. It helps convert raw sales records into clear and useful business insights.
 This project presents an interactive Amazon India Sales Dashboard created using Microsoft Excel. It helps analyze sales performance, profitability, product categories, order status, payment methods, fulfilment methods, and geographic performance.
 
 Key Performance Indicators (KPIs)
