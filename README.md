@@ -30,6 +30,8 @@ Tools Used
 - Excel Dashboard Design
 - Data Analysis and Visualization
 
+https://github.com/tripurag33-bit/Amazon-sales-dashboard/blob/28143ed8cb6ffa70afed533e66b957fac72a6b25/Amazon_Sales_Dashboard_Project-5.xlsx
+
 Project Objective
 
 To transform raw Amazon sales data into meaningful business insights through an interactive Excel dashboard and support better business decision-making.
