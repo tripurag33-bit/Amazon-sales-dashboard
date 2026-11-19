@@ -37,4 +37,4 @@ To transform raw Amazon sales data into meaningful business insights through an 
 Dataset: 10,000 sales records
 Project Type: Data Analytics | Excel Dashboard
 
-https://github.com/tripurag33-bit/Amazon-sales-dashboard/blob/dce45bf261570bef693e33af7b16477e6a3c6d0d/Amazon_Dashboard_Cropped_Images.zip
+https://github.com/tripurag33-bit/Amazon-sales-dashboard/blob/c99c028168730cd26db0b8a8179f995ac062c61a/01_Project_Overview.png
