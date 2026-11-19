@@ -42,3 +42,5 @@ https://github.com/tripurag33-bit/Amazon-sales-dashboard/blob/a09b4324feb8cb6227
 https://github.com/tripurag33-bit/Amazon-sales-dashboard/blob/a09b4324feb8cb622702be2fee261cb6ca2b1675/03_Category_Product_Performance.png
 https://github.com/tripurag33-bit/Amazon-sales-dashboard/blob/a09b4324feb8cb622702be2fee261cb6ca2b1675/04_Order_Status.png
 https://github.com/tripurag33-bit/Amazon-sales-dashboard/blob/a09b4324feb8cb622702be2fee261cb6ca2b1675/05_Payment_Fulfillment.png
+https://github.com/tripurag33-bit/Amazon-sales-dashboard/blob/12716f60f3d9b66c20f8b201520e421f53172145/06_Geographic_Performance.png
+https://github.com/tripurag33-bit/Amazon-sales-dashboard/blob/12716f60f3d9b66c20f8b201520e421f53172145/07_KPI_Cards.png
