@@ -1,29 +1,38 @@
 # Amazon-sales-dashboard
-Amazon Sales Dashboard built with HTML, CSS &amp; JavaScript. It shows Total Sales, Total Profit, Total Orders, Returned Orders and Monthly Target in one place. Profit is calculated as Selling Price minus Cost Price. Users can add new orders, filter by Delivered / Returned, and see monthly Sales vs Profit chart.
-# 📊 Amazon Sales Dashboard - Profit, Orders, Returns & Target
 
-Amazon seller dashboard to track business performance.
+Amazon India Sales Dashboard | Excel Project
 
-## Features
-- **Total Sales:** ₹3,90,000+ Live Calculation
-- **Total Profit:** Auto Profit = Selling Price - Cost Price
-- **Total Orders:** 1248+ Orders
-- **Returned Orders:** Track returns & return rate
-- **Monthly Target:** 78% Achieved - Progress Bar
-- **Monthly Chart:** Sales vs Profit vs Returns
-- **Add New Order:** Add order and dashboard updates instantly
-- **Filter:** All / Delivered / Returned
-- **Top Products:** Best sellers with profit & return %
+Project Overview
 
-## Profit Formula
-Profit = Selling Price - Cost Price
-Margin = (Profit / Sales) x 100
+This project presents an interactive Amazon India Sales Dashboard created using Microsoft Excel. It helps analyze sales performance, profitability, product categories, order status, payment methods, fulfilment methods, and geographic performance.
 
-## Tech Used
-HTML, CSS, JavaScript
+Key Performance Indicators (KPIs)
 
-## How to Run
-Open `index.html` in any browser. No installation needed.
-##excel sheet
-Amazon sales data india dashboard.xlsx
-https://gitHub.com/tripurag33-bit/amazon-sales-dashboard
+- Total Sales: ₹15.58 Crore
+- Total Profit: ₹3.32 Crore
+- Total Returns: 485
+- Total Orders: 10,000
+
+Dashboard Features
+
+- Overall Sales and Profit Analysis
+- Category-wise Sales and Profit
+- Top 10 Products by Sales
+- Order Status and Return Analysis
+- Payment Method Analysis
+- Fulfilment Performance
+- State-wise Sales and Profit Analysis
+
+Tools Used
+
+- Microsoft Excel
+- Pivot Tables and Charts
+- Excel Dashboard Design
+- Data Analysis and Visualization
+
+Project Objective
+
+To transform raw Amazon sales data into meaningful business insights through an interactive Excel dashboard and support better business decision-making.
+
+Dataset: 10,000 sales records
+Project Type: Data Analytics | Excel Dashboard
