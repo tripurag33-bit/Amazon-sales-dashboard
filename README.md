@@ -107,7 +107,8 @@ Tools Used
 - Excel Dashboard Design
 - Data Analysis and Visualization
 Excel Sheet Available Below 👇 👇 👇 
-https://github.com/tripurag33-bit/Amazon-sales-dashboard/blob/28143ed8cb6ffa70afed533e66b957fac72a6b25/Amazon_Sales_Dashboard_Project-5.xlsx
+
+https://github.com/tripurag33-bit/Amazon-sales-dashboard/blob/876ae72d51c0f3797b528665fa13e201c9b4e09c/Amazon_Sales_Dashboard_Project-v2.0.xlsx
 
 📈Project Objective
 
@@ -116,10 +117,4 @@ To transform raw Amazon sales data into meaningful business insights through an 
 Dataset: 10,000 sales records
 Project Type: Data Analytics | Excel Dashboard
 📊 IMAGE BELOW 👇 ✓✓✓
-https://github.com/tripurag33-bit/Amazon-sales-dashboard/blob/c99c028168730cd26db0b8a8179f995ac062c61a/01_Project_Overview.png
-https://github.com/tripurag33-bit/Amazon-sales-dashboard/blob/a09b4324feb8cb622702be2fee261cb6ca2b1675/02_Executive_Summary.png
-https://github.com/tripurag33-bit/Amazon-sales-dashboard/blob/a09b4324feb8cb622702be2fee261cb6ca2b1675/03_Category_Product_Performance.png
-https://github.com/tripurag33-bit/Amazon-sales-dashboard/blob/a09b4324feb8cb622702be2fee261cb6ca2b1675/04_Order_Status.png
-https://github.com/tripurag33-bit/Amazon-sales-dashboard/blob/a09b4324feb8cb622702be2fee261cb6ca2b1675/05_Payment_Fulfillment.png
-https://github.com/tripurag33-bit/Amazon-sales-dashboard/blob/12716f60f3d9b66c20f8b201520e421f53172145/06_Geographic_Performance.png
-https://github.com/tripurag33-bit/Amazon-sales-dashboard/blob/12716f60f3d9b66c20f8b201520e421f53172145/07_KPI_Cards.png
+
