@@ -106,16 +106,16 @@ Tools Used
 - Pivot Tables and Charts
 - Excel Dashboard Design
 - Data Analysis and Visualization
-
+Excel Sheet Available Below 👇 👇 👇 
 https://github.com/tripurag33-bit/Amazon-sales-dashboard/blob/28143ed8cb6ffa70afed533e66b957fac72a6b25/Amazon_Sales_Dashboard_Project-5.xlsx
 
-Project Objective
+📈Project Objective
 
 To transform raw Amazon sales data into meaningful business insights through an interactive Excel dashboard and support better business decision-making.
 
 Dataset: 10,000 sales records
 Project Type: Data Analytics | Excel Dashboard
-
+📊 IMAGE BELOW 👇 ✓✓✓
 https://github.com/tripurag33-bit/Amazon-sales-dashboard/blob/c99c028168730cd26db0b8a8179f995ac062c61a/01_Project_Overview.png
 https://github.com/tripurag33-bit/Amazon-sales-dashboard/blob/a09b4324feb8cb622702be2fee261cb6ca2b1675/02_Executive_Summary.png
 https://github.com/tripurag33-bit/Amazon-sales-dashboard/blob/a09b4324feb8cb622702be2fee261cb6ca2b1675/03_Category_Product_Performance.png
