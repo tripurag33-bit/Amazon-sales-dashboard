@@ -37,7 +37,9 @@ The dashboard transforms raw sales data into meaningful business insights throug
 - Data Analysis
 - Dashboard Design
 - Data Visualization
-
+-  Kpis chart
+-  geographic performance
+-  
 📷 Dashboard Screenshots
 
 1. Project Overview
