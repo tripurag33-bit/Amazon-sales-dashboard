@@ -127,3 +127,11 @@ https://github.com/tripurag33-bit/Amazon-sales-dashboard/blob/6af612707ef937c310
 https://github.com/tripurag33-bit/Amazon-sales-dashboard/blob/6af612707ef937c310366967322cfe8995100611/Payment%20%26%20fulfilment%20performance.png
 
 https://github.com/tripurag33-bit/Amazon-sales-dashboard/blob/6af612707ef937c310366967322cfe8995100611/Order%20status%20%26%20revenue%20loss%20analysis.png
+
+https://github.com/tripurag33-bit/Amazon-sales-dashboard/blob/29b66869a5e8f022b477b6dd5fd31fad8c54647e/Sales%20performance%20dashboard.png
+
+https://github.com/tripurag33-bit/Amazon-sales-dashboard/blob/29b66869a5e8f022b477b6dd5fd31fad8c54647e/Dynamic%20kpi%20%26%20visual%20analytics%20dashboard.png
+
+https://github.com/tripurag33-bit/Amazon-sales-dashboard/blob/29b66869a5e8f022b477b6dd5fd31fad8c54647e/Executive%20summary.png
+
+https://github.com/tripurag33-bit/Amazon-sales-dashboard/blob/29b66869a5e8f022b477b6dd5fd31fad8c54647e/Geographic%20performance.png
