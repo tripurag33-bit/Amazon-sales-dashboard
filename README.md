@@ -120,3 +120,10 @@ Dataset: 10,000 sales records
 Project Type: Data Analytics | Excel Dashboard
 📊 IMAGE BELOW 👇 ✓✓✓
 
+https://github.com/tripurag33-bit/Amazon-sales-dashboard/blob/6af612707ef937c310366967322cfe8995100611/Project%20overview.png
+
+https://github.com/tripurag33-bit/Amazon-sales-dashboard/blob/6af612707ef937c310366967322cfe8995100611/Category%20%26%20product%20performance%20.png
+
+https://github.com/tripurag33-bit/Amazon-sales-dashboard/blob/6af612707ef937c310366967322cfe8995100611/Payment%20%26%20fulfilment%20performance.png
+
+https://github.com/tripurag33-bit/Amazon-sales-dashboard/blob/6af612707ef937c310366967322cfe8995100611/Order%20status%20%26%20revenue%20loss%20analysis.png
